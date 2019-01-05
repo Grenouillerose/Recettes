@@ -1,5 +1,5 @@
 
-# Nouilles sautées au poulet ou boeuf
+# Nouilles sautées au poulet ou au boeuf
 ## Ingrédients
 - marinade:
   - vin jaune (chen nian hua tiao wine) 
