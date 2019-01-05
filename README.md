@@ -13,6 +13,8 @@
 
 [Crumble de légumes d'été](Crumble_de_légumes.md)
 
+[Rôti de boeuf en croûte ou Boeuf Wellington](Boeuf_en_croute.md)
+
 ## Desserts
 [Pate à crêpes](Crepes.md)
 
