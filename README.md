@@ -4,6 +4,10 @@
 
 [Gougères](Pate_a_choux.md)
 
+[Salade Bismark](Bismark.md)
+
+[Tartinade de sardine](Tartinade_sardine.md)
+
 ## Plats
 [Nouilles sautées au boeuf ou au poulet](Nouilles_sautées_boeuf.md)
 
@@ -16,7 +20,7 @@
 [Rôti de boeuf en croûte ou Boeuf Wellington](Boeuf_en_croute.md)
 
 ## Desserts
-[Pate à crêpes](Crepes.md)
+[Crêpes](Crepes.md)
 
 [Chouquettes](Pate_a_choux.md)
 
