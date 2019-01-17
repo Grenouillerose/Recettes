@@ -10,10 +10,10 @@
   - ail 
   - gingembre
   - viande en lamelles < 1 cm
-- légumes (quelques-uns au choix): 
+- légumes (quelques-uns au choix, coupés en grands morceaux fins): 
   - oignons
-  - poivrons vert et rouge 
-  - carottes en tagliatelles 
+  - poivrons vert et rouge
+  - carottes en tagliatelles (au rasoir à légumes)
   - champignons 
   - poireau 
   - germes de soja
