@@ -20,8 +20,11 @@
 [Rôti de boeuf en croûte ou Boeuf Wellington](Boeuf_en_croute.md)
 
 ## Desserts
-[Crêpes](Crepes.md)
 
 [Chouquettes](Pate_a_choux.md)
 
 [Choux](Pate_a_choux.md)
+
+[Crêpes](Crepes.md)
+
+[Gateau au chocolat](Gateau_choco.md)
