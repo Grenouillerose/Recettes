@@ -1,7 +1,7 @@
 
 # Nouilles sautées au poulet ou au boeuf
 ## Ingrédients
-- marinade:
+- marinade :
   - vin jaune (chen nian hua tiao wine) 
   - huile de sésame 
   - sauce soja 
@@ -10,7 +10,7 @@
   - ail 
   - gingembre
   - viande en lamelles < 1 cm
-- légumes: 
+- légumes (quelques-uns au choix): 
   - oignons
   - poivrons vert et rouge 
   - carottes en tagliatelles 
