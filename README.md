@@ -4,7 +4,7 @@
 
 [Gougères](Pate_a_choux.md)
 
-[Salade d'avocat et pamplemousse](Avocat-pamplemousse.md)
+[Salade d'avocat et pamplemousse](Avocat_pamplemousse.md)
 
 [Salade Bismark](Bismark.md)
 
@@ -30,3 +30,5 @@
 [Crêpes](Crepes.md)
 
 [Gateau au chocolat](Gateau_choco.md)
+
+[Gateau au yaourt](Gateau_yaourt.md)
