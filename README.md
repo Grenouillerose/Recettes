@@ -4,6 +4,8 @@
 
 [Gougères](Pate_a_choux.md)
 
+[Salade d'avocat et pamplemousse](Avocat-pamplemousse.md)
+
 [Salade Bismark](Bismark.md)
 
 [Tartinade de sardine](Tartinade_sardine.md)
