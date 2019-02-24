@@ -19,7 +19,7 @@
 0. beurrer le moule (au beurre salé).
 1. faire fondre doucement le chocolat en morceaux (au micro-onde, puissance moyenne, 2 minutes). Mélanger, ajouter le beurre et remettre 1 ou 2 minutes. Mélanger au fouet jusqu'à ce que tout soit fondu. Attention à ne pas trop chauffer. 
 Alternative à la casserole: de préférence au bain-marie.
-2. séparer les blancs des jaunes, mélanger les jaunes au chocolat au fur et à mesure. Dans les blancs, ajouter une pincée de sel et 1 c. à café d'eau. Battre les blancs en neige.
+2. séparer les blancs des jaunes, mélanger les jaunes au chocolat au fur et à mesure. Dans les blancs, ajouter une pincée de sel et 1 c. à café d'eau. Battre les blancs en neige. (2bis. tester: mélange jaunes + sucre + miel jusqu'à blanchissement, incorporer au chocolat, ajouter la farine.)
 3. dans le chocolat, ajouter le miel, puis le sucre et la farine mélangés. Bien mélanger au fouet.
-4. à la spatule, incorporer les blancs.
-5. enfourner à 180°C et cuire 20 minutes.
+4. à la spatule, incorporer les blancs dans l'appareil en passant bien par en dessous.
+5. verser dans le moule beurré, enfourner à 180°C et cuire 20 minutes.
