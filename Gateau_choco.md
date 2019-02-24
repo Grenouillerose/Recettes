@@ -3,7 +3,7 @@
 ## Ingrédients
 - 200 g de chocolat (100 g à 52% et 100 g à 65%)
 - 120 g de beurre
-- 4 oeufs 
+- 4 oeufs (calibre moyen)
 - 70 g de farine
 - 90 g de sucre dont sucre vanillé
 - 2 c. à café de miel
