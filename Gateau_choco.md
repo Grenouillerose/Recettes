@@ -10,7 +10,8 @@
 - sel
 
 ## Ustensiles
-- 2 grands saladiers
+- 2 grands saladiers et un petit
+- 1 moule à manqué
 - 1 fouet
 - 1 batteur électrique
 - 1 spatule
