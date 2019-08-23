@@ -29,6 +29,8 @@
 
 [Crêpes](Crepes.md)
 
+[Crumble aux fruits](Crumble.md)
+
 [Gateau au chocolat](Gateau_choco.md)
 
 [Gateau au yaourt](Gateau_yaourt.md)
