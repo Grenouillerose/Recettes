@@ -9,7 +9,7 @@
 - miel très liquide (ou dilué avec quelques gouttes de jus de citron ou eau de fleur d'oranger)
 
 ## Préparation
-0. préparer tous les ingrédients et 4 ramequins à l'avance
+0. préparer tous les ingrédients et 4 ramequins
 1. délayer la maïzéna dans un peu de lait froid
 2. mettre le reste du lait à bouillr avec le sucre
 3. à ébulition du lait, incorporer la maïzéna délayée
