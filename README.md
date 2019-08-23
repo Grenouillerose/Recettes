@@ -32,3 +32,5 @@
 [Gateau au chocolat](Gateau_choco.md)
 
 [Gateau au yaourt](Gateau_yaourt.md)
+
+[Mouhalabieh](Mhalabieh.md)
