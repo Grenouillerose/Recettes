@@ -1,6 +1,6 @@
 # Mhalabieh (Mouhalabieh)
 
-## Ingrédients (pour 4)
+## Ingrédients pour 4
 - 50 cL de lait 
 - 25 g de maïzéna ou de crème de riz
 - 30 g de sucre (ou moins)
