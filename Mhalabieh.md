@@ -1,4 +1,4 @@
-# Mhalabieh
+# Mhalabieh (Mouhalabieh)
 
 ## Ingrédients (pour 4)
 - 50 cL de lait 
