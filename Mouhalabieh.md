@@ -3,7 +3,7 @@
 ## Ingrédients pour 4
 - 50 cL de lait 
 - 25 g de maïzéna ou de crème de riz
-- 30 g de sucre (ou moins)
+- 15 g de sucre
 - 3 c. à soupe d'eau de fleur d'oranger
 - pistaches non salées
 - miel très liquide (ou dilué avec quelques gouttes de jus de citron ou eau de fleur d'oranger)
