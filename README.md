@@ -28,6 +28,8 @@
 
 [Rôti de boeuf en croûte Wellington](Boeuf_en_croute.md)
 
+[Rôti de porc aux pruneaux et à la sauge](Porc_sauge_pruneaux.md)
+
 ## Desserts
 
 [Chouquettes](Pate_a_choux.md)
