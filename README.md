@@ -10,6 +10,8 @@
 
 [Tartinade de sardine](Tartinade_sardine.md)
 
+[Soupe veloutée aux herbes](Soupe_aux_herbes.md)
+
 ## Plats
 
 [Navets braisés](Navets_braises.md)
