@@ -1,5 +1,7 @@
 # Recettes
 
+[Pain au levain](Pain_au_levain.md)
+
 ## Entrées
 
 [Gougères](Pate_a_choux.md)
