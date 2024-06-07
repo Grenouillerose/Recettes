@@ -9,7 +9,9 @@
 
 ## A savoir
 Il n'est pas nécessaire de faire 1+2+2 : 1+1+1 voire 2+1+1 fonctionne aussi (rafraîchissement partiel).
+
 Si on fait du pain régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
+
 Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (le doublement de volume en moins de 12h est un bon repère).
 
 # Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
@@ -17,6 +19,7 @@ Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillè
 - 255g d'eau en bouteille
 - 400g de farine (3/4 de farine T65, 1/4 de farine T110)
 - 10g de sel
+
 Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25%. 
 
 # Préparation de la pâte à pain
@@ -25,13 +28,23 @@ Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25
 3. Tout mélanger, par exemple à la cuillère. On peut mélanger franchement, ou bien doucement en élargissant le puis de farine au fur et à mesure.
 4. Laisser reposer 30 minutes sous cloche ou linge humide.
 5. Pétrir jusqu'à ce que la pâte soit lisse puis donner un tour. On peut mouiller les mains pour éviter que la pate ne colle aux doigts, mais à cette étape je préfère fariner.
-7. Premier tour de pétrissage : placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu. Reposer la pâte sur le plan de travail en mettant les extrémités en dessous. Faire la même chose par l'autre côté. Remettre sous cloche.
-8. Faire 3 ou 4 tours en tout, espacés de 30 minutes.
-9. Fariner un torchon à plat et le déposer dans une passoire (ou fariner un baneton)
-10. Avant que ça ne monte trop, faire la boule : bien fariner une partie pas mouillée du plan de travail, mouiller les mains, mettre le paton sur le dos sur la farine. Plier le nord sur le sud), puis les côtés sur le centre, puis tirer sur le sud pour repasser par dessus tout ça et finir en roulant comme une sorte de nem.
-11. Déposer dans le panier fariné avec la clé vers le haut (le dos du paton que l'on a posé sur la farine avant de faire la boule va se retrouver a peu près vers le fond du panier).
-12. Couvrir avec un torchon.
-13.  Laisser pousser au frigo ou pas, pour 6-12h. Entre 19 et 22°C, pas besoin de mettre au frais ni de chercher la chaleur.
+7. Premier tour de pétrissage :
+   - placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
+   - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
+   - Faire la même chose par l'autre côté.
+   - Remettre sous cloche.
+9. Faire 3 ou 4 tours en tout, espacés de 30 minutes.
+10. Fariner un torchon à plat et le déposer dans une passoire (ou fariner un baneton)
+11. Avant que ça ne monte trop, faire la boule :
+    - bien fariner une partie pas mouillée du plan de travail,
+    - mouiller les mains,
+    - mettre le paton sur le dos sur la farine.
+    - Plier le nord sur le sud),
+    - puis plier les côtés sur le centre,
+    - puis tirer sur le sud pour repasser par dessus tout ça et finir en roulant comme une sorte de nem.
+13. Déposer dans le panier fariné avec la clé vers le haut (le dos du paton que l'on a posé sur la farine avant de faire la boule va se retrouver a peu près vers le fond du panier).
+14. Couvrir avec un torchon.
+15.  Laisser pousser au frigo ou pas, pour 6-12h. Entre 19 et 22°C, pas besoin de mettre au frais ni de chercher la chaleur.
 
 # Cuisson du pain
 
