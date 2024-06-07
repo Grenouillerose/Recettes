@@ -54,7 +54,7 @@ Attention : penser à garder du levain de côté pour les prochaines fois.
 3. Enfourner pour 1h10
 4. Laisser refroidir 1h avant de couper le pain
 
-A tester : baisser la température du four à 210°C après 45 minutes pour que le dessous brûle moins (peut-être lié à mon four car le fond de la cocotte est très proche de la résistance). 
+A tester : baisser la température du four à 210°C après 45 minutes pour que le dessous brûle moins. Ou arrêter le four au bout de 50-60 minutes et laisser dans la cocotte dans le four fermé 20-10 minutes pour faire 1h10 au total.
  
 # Variante pour cuire deux pains
 
