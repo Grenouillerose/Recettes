@@ -2,7 +2,7 @@
 1. La veille de faire le pain, porter la quantité de levain à 50g, dans un grand pot :
 - 1 grande cuillère à soupe de levain (environ 10g)
 - 2 cuillères à soupe de farine (20g)
-- 2 cuillères à soupe d'eau minérale (20g)(eau du robinet OK si peu chlorée)
+- 2 cuillères à soupe d'eau minérale (20g) (eau du robinet OK si peu chlorée)
 2. Puis monter à 250g au repas suivant : 50 + 100 + 100.
 3. Placer un élastique sur le pot pour marquer le niveau du levain juste après l'avoir mélangé. Poser ou fermer le couvercle.
 4. Le levain est prêt à l'utilisation quand il a au moins doublé de volume, soit 2 à 10h après le dernier repas.
@@ -20,14 +20,15 @@ Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillè
 - 400g de farine (3/4 de farine T65, 1/4 de farine T110)
 - 10g de sel
 
-Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25%. 
+Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25%.
+Attention : penser à garder du levain de côté pour les prochaines fois.
 
 # Préparation de la pâte à pain
 1. Diluer le levain avec l'eau.
 2. Mélanger le sel dans la farine, dans un grand saladier.
 3. Tout mélanger, par exemple à la cuillère. On peut mélanger franchement, ou bien doucement en élargissant le puis de farine au fur et à mesure.
 4. Laisser reposer 30 minutes sous cloche ou linge humide.
-5. Pétrir jusqu'à ce que la pâte soit lisse puis donner un tour. On peut mouiller les mains pour éviter que la pate ne colle aux doigts, mais à cette étape je préfère fariner.
+5. Pétrir jusqu'à ce que la pâte soit lisse puis donner un tour. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, mais à cette étape je préfère fariner.
 7. Premier tour de pétrissage :
    - placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
    - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
