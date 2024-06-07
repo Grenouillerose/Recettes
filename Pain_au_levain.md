@@ -23,6 +23,7 @@ Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillè
 - 10g de sel
 
 Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25%.
+
 Attention : penser à garder du levain de côté pour les prochaines fois.
 
 ## Préparation de la pâte à pain
