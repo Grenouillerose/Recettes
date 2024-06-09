@@ -10,19 +10,19 @@
 4. Le levain est prêt à l'utilisation quand il a au moins doublé de volume, soit 2 à 10h après le dernier repas.
 
 ### A savoir
-Il n'est pas nécessaire de faire 1+2+2 : 1+1+1 voire 2+1+1 fonctionne aussi (rafraîchissement partiel).
+   Il n'est pas nécessaire de faire 1+2+2 : 1+1+1 voire 2+1+1 fonctionne aussi (rafraîchissement partiel).
 
-Si on fait du pain régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
+   Si on fait du pain régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
 
-Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (le doublement de volume en moins de 12h est un bon repère).
+   Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (le doublement de volume en moins de 12h est un bon repère).
 
 ## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
 - 200g de levain à la farine T110 dans un grand pot (type compote ou soupe)
-- 255g d'eau en bouteille
+- 230g d'eau en bouteille (eau du robinet OK si peu chlorée).
 - 400g de farine (3/4 de farine T65, 1/4 de farine T110)
 - 10g de sel
 
-Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25%.
+Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 13g de sel.
 
 Attention : penser à garder du levain de côté pour les prochaines fois.
 
