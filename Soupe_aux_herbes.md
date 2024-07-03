@@ -4,7 +4,7 @@
 
 ## Ingrédients
 - 3-4 pommes de terre moyennes
-- un petit bouquet d'herbes, au choix : cerfeuil, persil, oseille, fanes de carottes, fanes de radis
+- un petit bouquet d'herbes, au choix : cerfeuil, persil, oseille, fanes de carottes (sans les tiges), fanes de radis
 - en option, un peu d'autres légumes, au choix : 1 carotte, du poireau, 1 panais...
 - en option, un reste de laitue ou de salade
 - sel, poivre, beurre
@@ -16,7 +16,7 @@
 - ajouter 1/2 cuillère à café de sel
 - mouiller avec un peu d'eau
 - finir de couper les légumes, ajouter toute l'eau et laisser mijoter à feu moyen, couvert, pour 20 minutes
-- si les tiges des herbes sont épaisses, équeuter le bouquet d'herbes, réserver les feuilles et hacher les tiges des herbes et les ajouter aux légumes
+- si les tiges des herbes sont épaisses, équeuter le bouquet d'herbes, réserver les feuilles et hacher les tiges des herbes et les ajouter aux légumes. Enlever les tiges trop raides.
 - si les tiges sont fines, hacher tout ensemble et réserver
 - si vous avez de la laitue ou un reste de salade, couper les feuilles en lanières et les faire cuire à l'étuvée avec un peu de beurre, 10 minutes à couvert sur un feu doux
 - 3 minutes avant la fin de la cuisson de la soupe, incorporer la salade cuite et les herbes hachées
