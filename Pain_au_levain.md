@@ -23,9 +23,9 @@
 - 50g ou au moins 1 c. à café de levain que l'on met de côté pour les prochaines fois
 - 230g d'eau en bouteille (eau du robinet OK si peu chlorée)
 - 400g de farine (3/4 de farine T65, 1/4 de farine T110)
-- 10g de sel
+- 12g de sel
 
-Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 13g de sel. Attentio, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
+Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 15g de sel. Attentio, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
 
 ## Préparation de la pâte à pain
 1. Diluer le levain avec l'eau.
