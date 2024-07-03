@@ -16,24 +16,26 @@
 
    Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (le doublement de volume en moins de 12h est un bon repère).
 
+   Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut ajouter de l'eau un peu tiedie à la bouilloire, ou de l'eau d'une carafe à température ambiante pour que le levain lève plus vite. 
+
 ## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
 - 200g de levain à la farine T110 dans un grand pot (type compote ou soupe)
-- 230g d'eau en bouteille (eau du robinet OK si peu chlorée).
+- 50g ou au moins 1 c. à café de levain que l'on met de côté pour les prochaines fois
+- 230g d'eau en bouteille (eau du robinet OK si peu chlorée)
 - 400g de farine (3/4 de farine T65, 1/4 de farine T110)
 - 10g de sel
 
-Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 13g de sel.
-
-Attention : penser à garder du levain de côté pour les prochaines fois.
+Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 13g de sel. Attentio, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
 
 ## Préparation de la pâte à pain
 1. Diluer le levain avec l'eau.
 2. Mélanger le sel dans la farine, dans un grand saladier.
-3. Tout mélanger, par exemple à la cuillère. On peut mélanger franchement, ou bien doucement en élargissant le puis de farine au fur et à mesure.
+3. Tout mélanger franchement à la cuillère.
 4. Laisser reposer 30 minutes sous cloche ou linge humide.
-5. Pétrir jusqu'à ce que la pâte soit lisse puis donner un tour. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, mais à cette étape je préfère fariner.
+5. Pétrir jusqu'à ce que la pâte soit lisse en fraisant ou en rabattant les cotés de la pâte sur le milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains en s'aidant d'une corne ou d'un grattoir de patissier.
+6. Poser le paton sur le plan de travail.
 7. Premier tour de pétrissage :
-   - placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
+   - Placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
    - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
    - Faire la même chose par l'autre côté.
    - Remettre sous cloche.
