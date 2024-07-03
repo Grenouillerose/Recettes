@@ -33,7 +33,7 @@ Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25
 3. Tout mélanger franchement à la cuillère.
 4. Laisser reposer 30 minutes sous cloche ou linge humide.
 5. Pétrir jusqu'à ce que la pâte soit lisse en fraisant ou en rabattant les cotés de la pâte sur le milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains en s'aidant d'une corne ou d'un grattoir de patissier.
-6. Poser le paton sur le plan de travail.
+6. Poser le paton sur le plan de travail. *plan fariné ou pas ?*
 7. Premier tour de pétrissage :
    - Placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
    - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
