@@ -19,13 +19,15 @@
    Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite.
 
 ## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
-- 200g de levain à la farine T110 dans un grand pot (type compote ou soupe)
+- 200g de levain à la farine T110 ou T180 dans un grand pot (type compote ou soupe)
 - 50g ou au moins 1 c. à café de levain que l'on met de côté pour les prochaines fois
-- 230g d'eau en bouteille (eau du robinet OK si peu chlorée). La quantité d'eau optimale peut augmenter légèrement quand on augmente le grade de la farine.
-- 400g de farine (3/4 de farine T65, 1/4 de farine T110)
+- 230g d'eau en bouteille (eau du robinet OK si peu chlorée). La quantité d'eau optimale peut augmenter légèrement quand on augmente le type de la farine.
+- 400g de farine (par exemple 3/4 de farine T65, 1/4 de farine T110, ou tout en T65)
 - 12g de sel
 
-Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 15g de sel. Attentio, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
+Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 15g de sel. Attention, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
+
+Sur l'utilisation de farine plus ou moins complète : plus le type de la farine est élévée, plus la mie sera compacte et plus elle aura le goût de pain complet. Moins le type est élevé, et plus la mie sera souple. J'aime bien faire le levain à la farine complète ou semi complète (T180 ou T110) et utiliser seulement de la farine blanche (T55 ou T65) pour faire la pâte, mais il est possible d'essayer toutes les combinaisons.
 
 ## Préparation de la pâte à pain
 1. Diluer le levain avec l'eau.
