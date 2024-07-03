@@ -14,14 +14,14 @@
 
    Si on fait du pain régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
 
-   Si on n'est pas sur de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (le doublement de volume en moins de 12h est un bon repère).
+   Si on n'est pas sûr de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (c'est à dire tant quand le volume ne double pas en 12h).
 
-   Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut ajouter de l'eau un peu tiedie à la bouilloire, ou de l'eau d'une carafe à température ambiante pour que le levain lève plus vite. 
+   Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite.
 
 ## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
 - 200g de levain à la farine T110 dans un grand pot (type compote ou soupe)
 - 50g ou au moins 1 c. à café de levain que l'on met de côté pour les prochaines fois
-- 230g d'eau en bouteille (eau du robinet OK si peu chlorée)
+- 230g d'eau en bouteille (eau du robinet OK si peu chlorée). La quantité d'eau optimale peut augmenter légèrement quand on augmente le grade de la farine.
 - 400g de farine (3/4 de farine T65, 1/4 de farine T110)
 - 12g de sel
 
