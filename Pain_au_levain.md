@@ -35,14 +35,14 @@ Sur l'utilisation de farine plus ou moins complète : plus le type de la farine 
 3. Tout mélanger franchement à la cuillère.
 4. Laisser reposer 30 minutes sous cloche ou linge humide.
 5. Pétrir jusqu'à ce que la pâte soit lisse en fraisant ou en rabattant les cotés de la pâte sur le milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains en s'aidant d'une corne ou d'un grattoir de patissier.
-6. Poser le paton sur le plan de travail. *plan fariné ou pas ?*
+6. Poser le paton sur le plan de travail fariné.
 7. Faire le premier tour de pétrissage :
    - Placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
    - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
    - Rincer les mains et faire la même chose par l'autre côté.
    - Remettre sous cloche.
 9. Faire 3 ou 4 tours en tout, espacés de 30 minutes.
-10. Fariner un torchon à plat et le déposer dans une passoire ou un panier (ou fariner un baneton). Remarque : à 24°C, le paton va avoir tendance à coller au torchon. Pour éviter que ça n'accroche trop on peut fariner plus le fond, ou utiliser un torchon en nid d'abeille.
+10. Fariner un torchon à plat et le déposer dans une passoire ou un panier (ou fariner un baneton). Remarque : à 24°C, le paton va avoir tendance à coller au torchon. Pour éviter que ça n'accroche trop on peut fariner à la farine de riz, ou utiliser un torchon en nid d'abeille. 
 11. Avant que ça ne monte trop, faire la boule :
     - Fariner le dessus du pâton
     - Mettre le paton sur le dos sur la farine
