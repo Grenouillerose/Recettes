@@ -40,6 +40,8 @@
 
 [Choux](Pate_a_choux.md)
 
+[Crème patissière](Creme_patissiere.md)
+
 [Crêpes](Crepes.md)
 
 [Crumble aux fruits](Crumble.md)
