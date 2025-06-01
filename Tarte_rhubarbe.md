@@ -14,12 +14,13 @@ Tarte à la rhubarbe
 # Préparation de la compote de rhubarbe
 1. éplucher les tiges en tirant les fils d'une extrémité à l'autre
 2. couper en petits tronçons
-3. faire macérer avec 50g de sucre (8 cuillères à soupe?), de 15 minutes à une nuit
-4. faire cuire 5 à 10 minutes à feu vif
-5. laisser refroidir
+3. faire macérer avec 50g de sucre (8 cuillères à soupe), de 15 minutes à une nuit
+4. faire cuire 5 à 10 minutes à feu vif jusqu'à ce que cela compote
+5. laisser refroidir 
+La compote peut se conserver quelques jours au réfrigérateur.
 
 # Préparation du flan
-1. mélanger 70g de sucre, 30g de farine et une pincée de sel
+1. mélanger 80g de sucre, 30g de farine et une pincée de sel
 2. ajouter 3 oeufs, 20cL de crème et le bouchon de rhum, fouetter
 3. laisser reposer quelques minutes
 
