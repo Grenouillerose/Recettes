@@ -26,5 +26,5 @@ Tarte à la rhubarbe
 # Assemblage et cuisson
 1. Dans un plat à tarte, abaisser la pâte, étaler la compote sur le fond, puis verser délicatement le flan sur le dessus
 2. Saupoudrer de sucre vanillé
-3. Enfourner à 180°C pendant 40 minutes
-4. 
+3. Enfourner à 180°C pendant 35 minutes
+
