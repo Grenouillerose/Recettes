@@ -28,7 +28,9 @@
 
 [Nouilles sautées à la thaillandaise](Nouilles_thaillandaise.md)
 
-[Pastilla](Pastilla)
+[Pastilla](Pastilla.md)
+
+[Tarte au thon et à la tomate](Tarte_thon_tomate.md)
 
 [Rôti de boeuf en croûte Wellington](Boeuf_en_croute.md)
 
@@ -53,5 +55,7 @@
 [Mouhalabieh](Mouhalabieh.md)
 
 [Macarons](Macarons.md)
+
+[Tarte à la rhubarbe](Tarte_rhubarbe.md)
 
 [Confiture de Noël](Confiture_Noel.md)
