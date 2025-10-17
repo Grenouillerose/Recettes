@@ -1,11 +1,7 @@
 Biscuits sablés au citron 
 ====
 
-Preparation : 25 min
-
-Repos 1h
-
-Cuisson 8 à 12 min
+Preparation : 25 min, repos 1h, cuisson 8 à 12 min
 
 # Matériel 
 - Rouleau à patisserie
