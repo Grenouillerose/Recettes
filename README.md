@@ -14,6 +14,8 @@
 
 [Soupe veloutée aux herbes](Soupe_aux_herbes.md)
 
+[Velouté de courgette](Veloute_courgette.md)
+
 ## Plats
 
 [Navets braisés](Navets_braises.md)
