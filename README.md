@@ -38,6 +38,8 @@
 
 ## Desserts
 
+[Sablés au citron](Biscuits_citron.md)
+
 [Chouquettes](Pate_a_choux.md)
 
 [Choux](Pate_a_choux.md)
