@@ -1,6 +1,6 @@
 # Recettes
 
-[Pain au levain](Pain_au_levain.md)
+[Pain au levain](Pain_au_levain.md) (pas à jour)
 
 ## Entrées
 
@@ -28,9 +28,9 @@
 
 [Nouilles sautées au boeuf ou au poulet](Nouilles_sautées_boeuf.md)
 
-[Nouilles sautées à la thaillandaise](Nouilles_thaillandaise.md)
+[Nouilles sautées à la thaillandaise](Nouilles_thaillandaise.md) (non testé)
 
-[Pastilla](Pastilla.md)
+[Pastilla](Pastilla.md) (non testé)
 
 [Tarte au thon et à la tomate](Tarte_thon_tomate.md)
 
