@@ -4,6 +4,8 @@
 
 ## Entrées
 
+[Châtaignes grillées](Chataignes.md)
+
 [Gougères](Pate_a_choux.md)
 
 [Salade d'avocat et pamplemousse](Avocat_pamplemousse.md)
