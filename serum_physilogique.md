@@ -1,10 +1,9 @@
 Recette du sérum physiologique
 
-Pour faire votre propre sérum physiologique, dissoudre
-
-    10 ml (2 c. à café rases) de sel naturel sans additif et
-    +/- 2,5 ml (1/2 c. à café rase) de bicarbonate de soude alimentaire dans
-    1 litre (4 tasses) d’eau bouillie refroidie.
+Pour faire votre propre sérum physiologique, dissoudre : 
+- 10 ml (2 c. à café rases) de sel naturel sans additif et
+- +/- 2,5 ml (1/2 c. à café rase) de bicarbonate de soude alimentaire dans
+- 1 litre (4 tasses) d’eau bouillie refroidie.
 
 Respectez bien les proportions à la lettre. Vous pouvez diviser éventuellement la recette de moitié, à condition de bien respecter les proportions. Utilisez du sel fin ou du gros sel, de préférence du sel marin.  L'ajout de bicarbonate de soude n'est pas obligatoire .
 
