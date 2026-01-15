@@ -9,10 +9,10 @@ Pour la croûte :
 - ⅓ cuillère à café de muscade râpée (si on aime)
 
 Pour la garniture :
-- 313 g de fromage blanc (type faisselle)
-- 94 g de sucre semoule
-- 1½ cuillère à soupe de farine
-- 16 cl de crème fraîche
+- 313 g de fromage blanc (type faisselle) (333g de câlin)
+- 94 g de sucre semoule dont vanillé (85g, tester 45)
+- 1½ cuillère à soupe de farine (20g)
+- 16 cl de crème fraîche (0)
 - au choix 1 cuillère à café d' extrait de vanille ou d'orange ou zeste de citron ...
 - 2 oeufs
 
