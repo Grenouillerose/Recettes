@@ -7,7 +7,7 @@ Pour la croûte :
 - 157 g de biscuit émiettés (100g de mon pain sec en miettes fines et 3,5 biscuits aux raisins)
 - 79 g de beurre fondu
 - ⅓ cuillère à café de muscade râpée (si on aime)
-rq : les quantités d'origine donnent une épaisseur d'appareil à peine supérieure à celle de la croûte. On peut surement réduire la croûte à 140g+70g. Il faut augmenter un peu la proportion de biscuit/pain ou utiliser des biscuits plus sucrés, ou même prélever 1 ou 2 cuillèrées à soupe du sucre prévu pour l'appareil et la mettre dans la croûte pour caraméliser. En réduisant la croûte encore un peu plus (100g+50g?) on doit pouvoir arriver à 6 mini cheesecakes.
+rq : les quantités d'origine donnent une épaisseur d'appareil à peine supérieure à celle de la croûte. On peut surement réduire la croûte à 140g+70g. Il faut augmenter un peu la proportion de biscuit/pain ou utiliser des biscuits plus sucrés, ou même prélever 1 ou 2 cuillèrées à soupe du sucre prévu pour l'appareil et les mettre dans la croûte pour caraméliser. En réduisant la croûte encore un peu plus (100g+50g?) on doit pouvoir arriver à 6 mini cheesecakes avec une belle épaisseur de fromage.
 
 Pour la garniture :
 - 313 g de fromage blanc (type faisselle) (333g de câlin)
@@ -28,6 +28,6 @@ Pour la garniture :
 6. ajoutez le sucre et la farine et les oeufs un par un.
 7. Ajoutez ensuite la crème et le parfum de votre choix.
 8. Versez cette préparation sur la croûte biscuitée (si la croûte "dépasse" de la crème, enlevez le surplus à la cuillère, cela risque de brûler).
-9. Enfournez pour 50-55 minutes de cuisson jusqu'à ce que la préparation au fromage soit ferme au toucher. (raté le compte minute, 30-35 minutes pour des petits ramequins semble bien)
+9. Enfournez pour 50-55 minutes de cuisson jusqu'à ce que la préparation au fromage soit ferme au toucher. (j'ai raté le compte minute, 30-35 minutes pour des petits ramequins semble bien)
 11. Laissez refroidir
 12. démoulez et servez frais.
