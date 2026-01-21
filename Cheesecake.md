@@ -1,5 +1,38 @@
 Cheesecake 
 ====
+deuxième version à tester - atelier des chefs
+Pour le(s) biscuit(s)
+Spéculoos 200 g
+Beurre doux 80 g
+Pour la crème
+Sucre en poudre 75 g
+Oeuf(s) 2 pièce(s)
+Crème fraîche épaisse 65 g
+Fromage à la crème 375 g
+Jaune(s) d'oeuf(s) 1 pièce(s)
+Farine de blé T55 15 g
+Citron(s) jaune(s) 1 pièce(s)
+Vanille en poudre 2 pincée(s)
+
+Descriptif de la recette
+## Le biscuit
+Broyer les spéculoos au pilon ou au mixeur pour obtenir une poudre assez fine. La mélanger ensuite soigneusement avec le beurre fondu.
+Répartir le mélange dans le moule en tassant bien avec le pied d'un verre. Placer ensuite au congélateur pendant quelques minutes de façon à figer la préparation.
+
+## La crème
+Préchauffer le four à 180 °C (th. 6).
+
+Zester le citron.
+Battre le fromage pendant 30 sec à l'aide d'un mixeur (ou au fouet) pour bien le lisser. Ajouter ensuite les ingrédients 1 par 1 en battant brièvement à chaque fois : le sucre, la farine, le zeste de citron, la poudre de vanille, puis les oeufs et les jaunes (1 à 1). Finir par la crème fraîche en battant juste assez pour l'incorporer.
+
+Verser le tout dans le moule et enfourner. Au bout de 15 min, abaisser la température à 100 °C (th. 3-4) et poursuivre la cuisson pendant 1 h.
+Éteindre le four et laisser le cheesecake dedans 1 h de plus, porte entrouverte.
+
+Sortir du four et laisser refroidir complètement avant de démouler et de placer au réfrigérateur.
+
+laisser reposer 12h si possible
+
+====
 à ajuster - version d'origine (marmiton) commentée 
 
 # Ingrédients (5 personnes)
