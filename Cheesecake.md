@@ -1,4 +1,4 @@
-Cheesecake 
+Cheesecake pas au point
 ====
 deuxième version à tester - atelier des chefs
 Pour le(s) biscuit(s)
