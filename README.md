@@ -56,6 +56,8 @@
 
 [Gateau au chocolat](Gateau_choco.md)
 
+[Gâteau marbré chocolat](Gateau_marbre.md)
+
 [Gateau au yaourt](Gateau_yaourt.md)
 
 [Mouhalabieh](Mouhalabieh.md)
