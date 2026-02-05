@@ -1,9 +1,11 @@
+pas toujours top, éviter les fanes, ok avec des herbes mais mettre suffisamment de légumes et peu de patates.
+
 # Velouté aux herbes
 30 minutes
 4 bols
 
 ## Ingrédients
-- 3-4 pommes de terre moyennes
+- 2 pommes de terre moyennes
 - un petit bouquet d'herbes, au choix : cerfeuil, persil, oseille, fanes de carottes (sans les tiges), fanes de radis
 - en option, un peu d'autres légumes, au choix : 1 carotte, du poireau, 1 panais...
 - en option, un reste de laitue ou de salade
