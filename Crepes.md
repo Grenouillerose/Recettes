@@ -7,7 +7,7 @@ Pour une vingtaine de crêpes.
 - 1/2 litre de lait ou de bière (+ un petit peu pour rallonger si besoin après repos)
 - 2 c. à soupe de sucre dont vanillé
 - une ou depincé de sel
-- au choix 1 c. à soupe de creme fraiche ou 20 g beurre fondu (pas les deux !)
+- au choix 1 c. à soupe de creme fraiche
 - 10 g de beurre salé + 1 c. à soupe d'huile de cuisson
 
 ## La pâte
