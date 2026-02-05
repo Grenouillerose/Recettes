@@ -14,8 +14,6 @@
 
 [Tartinade de sardine](Tartinade_sardine.md)
 
-[Soupe veloutée aux herbes](Soupe_aux_herbes.md)
-
 [Velouté de courgette](Veloute_courgette.md)
 
 ## Plats
