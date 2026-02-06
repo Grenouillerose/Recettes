@@ -5,9 +5,9 @@ Pour une vingtaine de crêpes moyennes ou quinze grandes.
 - 250 g farine
 - 3 oeufs
 - 1/2 litre de lait ou de bière (+ un petit peu pour rallonger si besoin après repos)
-- 2 c. à soupe de sucre dont vanillé
+- 2 belles c. à soupe de sucre dont vanillé
 - une ou depincé de sel
-- au choix 1 c. à soupe de creme fraiche
+- 1 belle c. à soupe de creme fraiche (si pas de crème fraîche, crème d'amande à tester, sinon 20g de beurre fondu mais ne pas allonger avec du lait sous peine d'un effet carton)
 - 10 g de beurre salé + 1 c. à soupe d'huile de cuisson
 
 ## La pâte
