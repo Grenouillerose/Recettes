@@ -2,7 +2,7 @@
 
 [Pain au levain](Pain_au_levain.md) (pas à jour)
 
-[Pâte brisée](pate_brisee.md)
+[Pâte brisée](Pate_brisee.md)
 
 ## Entrées
 
