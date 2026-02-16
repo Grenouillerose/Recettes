@@ -2,6 +2,8 @@
 
 [Pain au levain](Pain_au_levain.md) (pas à jour)
 
+[Pâte brisée](pate_brisee.md)
+
 ## Entrées
 
 [Châtaignes grillées](Chataignes.md)
