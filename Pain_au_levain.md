@@ -1,18 +1,26 @@
-# Pain au levain
+# Pain au levain des paresseux
 
-## Multiplication du levain
-1. La veille de faire le pain, porter la quantité de levain à 50g, dans un grand pot :
-- 1 grande cuillère à soupe de levain (environ 10g)
-- 2 cuillères à soupe de farine (20g)
-- 2 cuillères à soupe d'eau minérale (20g) (eau du robinet OK si peu chlorée)
-2. Puis monter à 250g au repas suivant : 50 + 100 + 100.
-3. Placer un élastique sur le pot pour marquer le niveau du levain juste après l'avoir mélangé. Poser ou fermer le couvercle.
-4. Le levain est prêt à l'utilisation quand il a au moins doublé de volume, soit 2 à 10h après le dernier repas.
+## Équivalences utiles
+- 1 grande cuillère à soupe de levain : environ 10g
+- 1 cuillère à soupe de farine à peine bombée de farine : ~10g
+- 1 cuillère à soupe de farine très bombée : ~20g
+- 1 cuillères à soupe d'eau ~10g ((eau du robinet OK si peu chlorée = 2h à l'air libre)
 
-### A savoir
-   Il n'est pas nécessaire de faire 1+2+2 : 1+1+1 voire 2+1+1 fonctionne aussi (rafraîchissement partiel).
+## Proportions levain liquide + farine + eau et temps de pousse :
+- 1+1+1 -> 
+- 1+2+2 -> à compléter
 
-   Si on fait du pain régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
+## Proportions levain dur ?
+- 2 farine + 1 d'eau
+
+## Utilisation du levain
+Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un rafraîchi et de le garder toujours actif et à température ambiante.
+
+En pratique, on peut gérer son levain et son temps de manière (un peu) plus spontanée. En le plaçant au frigo lorsqu'il est au maximum de sa pousse, on pourra utiliser le levain directement  jusqu'à 8 jours après sans le rafraîchir.
+
+Au delà de 8 jours, il vaut mieux conserver le levain sous forme "dure" qui ressemble à un pain. Pour favoriser la conservation utiliser un pot bien hermétique, rempli à 1/3 ou 1/2 max de levain au maximum de sa pousse.
+
+régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
 
    Si on n'est pas sûr de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (c'est à dire tant quand le volume ne double pas en 12h).
 
