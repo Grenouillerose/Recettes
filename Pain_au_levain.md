@@ -6,23 +6,24 @@
 - 1 cuillère à soupe de farine très bombée : ~20g
 - 1 cuillères à soupe d'eau ~10g ((eau du robinet OK si peu chlorée = 2h à l'air libre)
 
-## Proportions levain liquide + farine + eau et temps de pousse :
+## Proportions et levains
+### Levain liquide + farine + eau et temps de pousse :
 - 1+1+1 -> 
 - 1+2+2 -> à compléter
 
-## Proportions levain dur ?
+### Proportions levain dur ?
 - 2 farine + 1 d'eau
 
-## Utilisation du levain
+## Gestion du levain
 Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un rafraîchi et de le garder toujours actif et à température ambiante.
 
-En pratique, on peut gérer son levain et son temps de manière (un peu) plus spontanée. En le plaçant au frigo lorsqu'il est au maximum de sa pousse, on pourra utiliser le levain directement  jusqu'à 8 jours après sans le rafraîchir.
+En pratique, on peut gérer son levain et son temps de manière (un peu) plus spontanée. En le plaçant au frigo lorsqu'il est au maximum de sa pousse, on pourra utiliser le levain directement jusqu'à 8 jours après sans le rafraîchir.
+
+Au moment d'utiliser le levain, mettre de côté au moins un petit pois de levain dans un pot pour les fois suivantes, le rafraîchir et laisser lever à température ambiante avant de mettre au frais. On peut aussi prélever un petit bout du paton au moment de faire la boule et le laisser lever avant de mettre au frais.
 
 Au delà de 8 jours, il vaut mieux conserver le levain sous forme "dure" qui ressemble à un pain. Pour favoriser la conservation utiliser un pot bien hermétique, rempli à 1/3 ou 1/2 max de levain au maximum de sa pousse.
 
-régulièrement (7-10 jours d'écart max), au moment d'utiliser le levain, garder 200g dans le grand pot et transvaser 50g dans un autre grand pot à placer directement au frigo. Pour l'utiliser il suffira de le sortir du frigo et faire directement l'étape 2. Pour le conserver + de 10 jours, il faudra le rafraichir et peut-être le réactiver avec l'étape 1, en la répétant s'il est très lent à lever.
-
-   Si on n'est pas sûr de refaire du pain tout de suite, placer d'emblée 1 cuillère à café de levain dans un petit pot, le rafraichir avec 2 cuillères à café de farine et 2 d'eau, fermer avec le couvercle et le conserver au frigo. Rafraichir de nouveau au bout de 3-4 semaines. Bien réactiver avec 2 ou 3 rafraichissements avant de le multiplier. Rester avec des petites quantités tant que le levain n'est pas très actif (c'est à dire tant quand le volume ne double pas en 12h).
+Pour relancer un vieux levain, rester avec des petites quantités tant que le levain n'est pas très actif et répéter les rafraîchis si possible sans passage au frais (pour rééquilibrer le levain dont les levures ont tendance à prendre le pas sur les lactobacilles lorsque la température est inférieure à 15°C).
 
    Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite.
 
