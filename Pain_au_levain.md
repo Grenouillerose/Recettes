@@ -1,25 +1,20 @@
-# Pain au levain des paresseux
-
-## Équivalences utiles
-- 1 grande cuillère à soupe de levain : environ 10g
-- 1 cuillère à soupe de farine à peine bombée de farine : ~10g
-- 1 cuillère à soupe de farine très bombée : ~20g
-- 1 cuillères à soupe d'eau ~10g ((eau du robinet OK si peu chlorée = 2h à l'air libre)
+# Pain au levain
 
 ## Proportions et levains
 ### Levain liquide + farine + eau et temps de pousse :
 - 1+1+1 -> 
 - 1+2+2 -> à compléter
 
-### Proportions levain dur ?
-- 2 farine + 1 d'eau
+### Proportions levain dur
+- 2 farine + 1,2 d'eau
+- ou bien, prélever un morceau sur le paton avant de faire la boule
 
 ## Gestion du levain
 Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un rafraîchi et de le garder toujours actif et à température ambiante.
 
 En pratique, on peut gérer son levain et son temps de manière (un peu) plus spontanée. En le plaçant au frigo lorsqu'il est au maximum de sa pousse, on pourra utiliser le levain directement jusqu'à 8 jours après sans le rafraîchir.
 
-Au moment d'utiliser le levain, mettre de côté au moins un petit pois de levain dans un pot pour les fois suivantes, le rafraîchir et laisser lever à température ambiante avant de mettre au frais. On peut aussi prélever un petit bout du paton au moment de faire la boule et le laisser lever avant de mettre au frais.
+Au moment d'utiliser le levain, mettre de côté un peu de levain pour les fois suivantes (par exemple : ce qui reste au fond du pot), le rafraîchir et laisser lever à température ambiante. On peut aussi prélever un petit bout du paton au moment de faire la boule et le laisser lever. Je multiplie mon levain une ou deux fois, jusqu'à avoir la quantité nécessaire pour le pain suivant, puis je le mets au frais quand il est au maximum de sa pousse.
 
 Au delà de 8 jours, il vaut mieux conserver le levain sous forme "dure" qui ressemble à un pain. Pour favoriser la conservation utiliser un pot bien hermétique, rempli à 1/3 ou 1/2 max de levain au maximum de sa pousse.
 
