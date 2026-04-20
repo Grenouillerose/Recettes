@@ -2,12 +2,12 @@
 
 ## Proportions et levains
 ### Levain liquide + farine + eau et temps de pousse :
-- 1+1+1 -> 
-- 1+2+2 -> à compléter
+- 1 volume de levain + 1 de farine + 1 d'eau -> 
+- 1 volume de levain + 2 de farine + 2 d'eau -> à compléter
 
 ### Proportions levain dur
 - 2 farine + 1,2 d'eau
-- ou bien, prélever un morceau sur le paton avant de faire la boule
+- ou bien, prélever un morceau sur la pâte à avant de faire la boule
 
 ## Gestion du levain
 Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un rafraîchi et de le garder toujours actif et à température ambiante.
