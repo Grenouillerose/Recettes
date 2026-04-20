@@ -12,9 +12,9 @@ Exemple 2.
 Je démarre avec 50g de levain, je vise de monter à 120g, donc j'ajoute 35 g de farine et 35 g d'eau, je mélange et je laisse reposer 2 à 4 heures à température ambiante.
 
 ### Proportions levain dur
-- 2 farine + 1,2 d'eau
-- ou bien, prélever un morceau sur la pâte à avant de faire la boule
-J'utilise la forme dure surtout pour le stocker et je le délaye à l'eau avant de le réutiliser mais dans tuto on trouve les équivalences levain dur / levain liquide :
+- le plus simple : prélever un morceau sur la pâte à avant de faire la boule, laisser lever sans rafraîchir puis stocker au frais.
+
+J'utilise la forme dure surtout pour le stocker et je multiplie comme si c'était du levain liquide avant de l'utiliser. Comme je démarre avec toute petite quantité de levain dur, je ne me préoccupe pas de savoir combien d'eau et de farine il contient exactement, simplement si le levain reste trop dur à mélanger j'ajoute un peu plus d'eau.
 
 ## Gestion du levain
 Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un rafraîchi et de le garder toujours actif et à température ambiante.
