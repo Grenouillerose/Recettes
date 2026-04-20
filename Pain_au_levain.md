@@ -14,20 +14,20 @@ Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un
 
 En pratique, on peut gérer son levain et son temps de manière (un peu) plus spontanée. En le plaçant au frigo lorsqu'il est au maximum de sa pousse, on pourra utiliser le levain directement jusqu'à 8 jours après sans le rafraîchir.
 
-Au moment d'utiliser le levain, mettre de côté un peu de levain pour les fois suivantes (par exemple : ce qui reste au fond du pot), le rafraîchir et laisser lever à température ambiante. On peut aussi prélever un petit bout du paton au moment de faire la boule et le laisser lever. Je multiplie mon levain une ou deux fois, jusqu'à avoir la quantité nécessaire pour le pain suivant, puis je le mets au frais quand il est au maximum de sa pousse.
+Au moment d'utiliser le levain, mettre de côté un peu de levain pour les fois suivantes (par exemple : ce qui reste au fond du pot), le rafraîchir et laisser lever à température ambiante. On peut aussi prélever un petit bout de la pâte au moment de faire la boule et le laisser lever tel quel. Quand il sera au maximum de sa pousse (8 à 12 heure après si on a rafraîchi en 1+2+2) il faudra rafraîchir de nouveau ou mettre au frigo.
 
-Au delà de 8 jours, il vaut mieux conserver le levain sous forme "dure" qui ressemble à un pain. Pour favoriser la conservation utiliser un pot bien hermétique, rempli à 1/3 ou 1/2 max de levain au maximum de sa pousse.
+Pour conserver le levain au delà de 8 jours, il vaut mieux le mettre sous forme "dure" qui ressemble à un la pâte à pain. Pour favoriser la conservation utiliser un pot bien hermétique, rempli à 1/3 ou 1/2 max de levain dur au maximum de sa pousse.
 
-Pour relancer un vieux levain, rester avec des petites quantités tant que le levain n'est pas très actif et répéter les rafraîchis si possible sans passage au frais (pour rééquilibrer le levain dont les levures ont tendance à prendre le pas sur les lactobacilles lorsque la température est inférieure à 15°C).
+Pour relancer un vieux levain, rester avec des petites quantités tant que le levain n'est pas très actif et répéter les rafraîchis si possible sans passage au frais (pour rééquilibrer le levain dont les levures ont tendance à prendre le dessus sur les lactobacilles lorsque la température est inférieure à 15°C).
 
-   Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite.
+   Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite. Faire reposer l'eau à l'air libre 2h avant de l'utiliser permet aussi au chlore de s'évaporer.
 
 ## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
-- 200g de levain à la farine T110 ou T180 dans un grand pot (type compote ou soupe)
-- 50g ou au moins 1 c. à café de levain que l'on met de côté pour les prochaines fois
-- 230g d'eau en bouteille (eau du robinet OK si peu chlorée). La quantité d'eau optimale peut augmenter légèrement quand on augmente le type de la farine.
-- 400g de farine (par exemple 3/4 de farine T65, 1/4 de farine T110, ou tout en T65)
-- 12g de sel
+- 100g de levain à la farine T110 ou T180
+- 5g ou au moins l'équivalent d'un petit pois de levain que l'on met de côté pour les prochaines fois
+- 300g d'eau à température ambiante (+13g quand on est à l'aise). La quantité d'eau optimale peut augmenter légèrement quand on augmente le type de la farine.
+- 500g de farine (par exemple 3/4 de farine T65, 1/4 de farine T110, ou tout en T65)
+- 9 à 10 g de sel
 
 Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 15g de sel. Attention, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
 
