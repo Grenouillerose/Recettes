@@ -40,13 +40,14 @@ Pour relancer un vieux levain, rester avec des petites quantités tant que le le
 Sur l'utilisation de farine plus ou moins complète : plus le type de la farine est élévée, plus la mie sera compacte et plus elle aura le goût de pain complet. Moins le type est élevé, et plus la mie sera souple.
 
 ## Préparation de la pâte à pain
-1. Diluer le levain avec l'eau.
-2. Mélanger le sel dans la farine, dans un grand saladier.
+1. Mélanger le sel avec la farine dans un grand saladier.
+2. Ajouter le levain puis l'eau.
 3. Tout mélanger franchement à la cuillère.
-4. Laisser reposer 30 minutes sous cloche ou linge humide.
-5. Pétrir jusqu'à ce que la pâte soit lisse en fraisant ou en rabattant les cotés de la pâte sur le milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains en s'aidant d'une corne ou d'un grattoir de patissier.
-6. Poser le paton sur le plan de travail fariné.
-7. Faire le premier tour de pétrissage :
+4. Quand toute la farine est amalgamée et la pâte à peu près homogène, commencer à pétrir à la main, en aplatissant sans déchirer et en rabattant les cotés de la pâte sur son milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains tant que ça colle trop. Si le saladier n'est pas assez grand, on peut travailler sur le plan de travail dès cette étape.
+5. Au bout de 5 minutes de pétrissage maximum, ou quand la pâte s'applatit moins facilement et devient aussi moins collante (ça se remarque surtout si on la travaille sans farine et sans mouiller les mains), déposer la pâte sur le plan de travail et laisser reposer quelques minutes.
+6. Fariner le tissu du baneton (à défaut : un panier ou une passoire couverte d'un torchon).
+7. À tester : passer directement au façonnage de la boule.
+8. Faire le premier tour de pétrissage :
    - Placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
    - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
    - Rincer les mains et faire la même chose par l'autre côté.
