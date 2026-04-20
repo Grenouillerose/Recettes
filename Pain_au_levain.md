@@ -53,10 +53,12 @@ Sur l'utilisation de farine plus ou moins complète : plus le type de la farine 
    - reposer la pâte sur le plan de travail en repliant les extrémités en dessous.
    - rincer les mains si ça colle et faire la même chose par l'autre côté,
    - laisser reposer et attendre que la boule de pâte s'affaisse un peu avant de recommencer ou de faire la boule.
-12. Avant que ça ne monte trop, faire la boule :
+12. Au maximum 45 minutes après le mélange initial, façonner la boule :
     - Fariner le dessus du pâton
-    - Mettre le paton sur le dos sur la farine
-    - Plier le nord sur le sud,
+    - Retourner le pâton pour le mettre sur son dos fariné
+    - Étirer le pâton doucement du bout des doigts pour former un rectangle de pâte
+    - Replier les coins sur son centre, les uns sur les autres
+    - Rassembler doucement les nouveaux coins vers le centre et retourner le pâton de nouveau le dos vers le haut
     - puis plier les côtés sur le centre, l'un sur l'autre
     - puis tirer sur le sud pour repasser par dessus tout ça et finir en roulant comme une sorte de nem.
 13. Déposer dans le panier fariné avec la clé vers le haut (le dos du paton que l'on a posé sur la farine avant de faire la boule va se retrouver a peu près vers le fond du panier).
