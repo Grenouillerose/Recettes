@@ -56,26 +56,17 @@ Sur l'utilisation de farine plus ou moins complète : plus le type de la farine 
 12. Au maximum 45 minutes après le mélange initial, façonner la boule :
     - Fariner le dessus du pâton
     - Retourner le pâton pour le mettre sur son dos fariné
-    - Étirer le pâton doucement du bout des doigts pour former un rectangle de pâte
+    - Étirer le pâton doucement du bout des doigts pour former un rectangle de pâte (voir vidéo : https://nicrunicuit.com/faire/fermenter/votre-premier-pain-au-levain/)
     - Replier les coins sur son centre, les uns sur les autres
-    - Rassembler doucement les nouveaux coins vers le centre et retourner le pâton de nouveau le dos vers le haut
-    - puis plier les côtés sur le centre, l'un sur l'autre
-    - puis tirer sur le sud pour repasser par dessus tout ça et finir en roulant comme une sorte de nem.
-13. Déposer dans le panier fariné avec la clé vers le haut (le dos du paton que l'on a posé sur la farine avant de faire la boule va se retrouver a peu près vers le fond du panier).
-14. Couvrir avec un torchon.
-15. Laisser pousser au frigo ou pas, pour 6-12h. Entre 19 et 22°C, pas besoin de mettre au frais ni de chercher la chaleur. De 22°C à 24°C, cela fonctionne aussi à température ambiante, simplement le paton va coller plus facilement au torchon.
+    - Rassembler doucement les nouveaux coins vers le centre
+    - Passer à l'etape suivante, ou retourner le pâton de nouveau le dos fariné vers le haut et repousser du bout des doigts les coins vers l'intérieur de la boule pour étirer la surface de la boule au maximum sans la déchirer et sans faire éclater de bulle, remettre le dos du pain vers le bas.
+13. Déposer le pâton dans le panier ou le baneton fariné en plaçant le dos rond et fariné au fond, la "clef" (où se rejoignent tous les plis) se retrouve alors sur le dessus.
+15. Couvrir avec un torchon.
+16. Laisser pousser à l'abri des courants d'air, pour 6-12h. Entre 19 et 22°C, pas besoin de mettre au frais ni de chercher la chaleur. De 22°C à 24°C, cela fonctionne aussi mais il faut réduire le temps de fermentation.
 
 ## Cuisson du pain
 
 1. Préchauffer le four et la cocotte à 230°C chaleur tournante.
 2. Mettre la pâte à pain dans la cocotte : renverser le panier, la clef de la boule devient ainsi le dessous de la boule pour la cuisson.
-3. Enfourner pour 1h10
-4. Laisser refroidir 1h avant de couper le pain
-
-A tester : baisser la température du four à 210°C après 45 minutes pour que le dessous brûle moins. Ou arrêter le four au bout de 50-60 minutes et laisser dans la cocotte dans le four fermé 20-10 minutes pour faire 1h10 au total.
- 
-## Variante pour cuire deux pains
-
-Doubler les quantités. Après les tours de pétrissage, séparer la pate en deux patons et faire deux boules. 
-Pour la cuisson, mettre le premier pain dans la cocotte fermée. Au bout de 25 ou 30 min, le 2e pain prend la place. Le premier pain continue la cuisson sur une grille. La cuisson d'un pain prend au total 1h10.
-
+3. Enfourner pour 55 minutes
+4. Laisser refroidir 30 minutes avant de couper le pain
