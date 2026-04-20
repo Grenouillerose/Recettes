@@ -46,23 +46,21 @@ Sur l'utilisation de farine plus ou moins complète : plus le type de la farine 
 4. Quand toute la farine est amalgamée et la pâte à peu près homogène, commencer à pétrir à la main, en aplatissant sans déchirer et en rabattant les cotés de la pâte sur son milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains tant que ça colle trop. Si le saladier n'est pas assez grand, on peut travailler sur le plan de travail dès cette étape.
 5. Au bout de 5 minutes de pétrissage maximum, ou quand la pâte s'applatit moins facilement et devient aussi moins collante (ça se remarque surtout si on la travaille sans farine et sans mouiller les mains), déposer la pâte sur le plan de travail et laisser reposer quelques minutes.
 6. Fariner le tissu du baneton (à défaut : un panier ou une passoire couverte d'un torchon).
-7. À tester : passer directement au façonnage de la boule.
-8. Faire le premier tour de pétrissage :
-   - Placer un bol d'eau près de soi, mouiller les mains et soulever la pâte par le  milieu.
-   - Reposer la pâte sur le plan de travail en mettant les extrémités en dessous.
-   - Rincer les mains et faire la même chose par l'autre côté.
-   - Remettre sous cloche.
-9. Faire 3 ou 4 tours en tout, espacés de 30 minutes.
-10. Fariner un torchon à plat et le déposer dans une passoire ou un panier (ou fariner un baneton). Remarque : à 24°C, le paton va avoir tendance à coller au torchon. Pour éviter que ça n'accroche trop on peut fariner à la farine de riz, ou utiliser un torchon en nid d'abeille. 
-11. Avant que ça ne monte trop, faire la boule :
+7. À tester : passer directement au façonnage de la boule (avec 5 minutes de pétrissage, l'étape suivante n'est pas forcément utile)
+8. Après le pétrissage, je prends 30 minutes maximum pour donner des tours à la pâte. Donner un tour c'est :
+   - mouiller légèrement les mains et soulever la pâte par le  milieu.
+   - reposer la pâte sur le plan de travail en repliant les extrémités en dessous.
+   - rincer les mains si ça colle et faire la même chose par l'autre côté,
+   - laisser reposer et attendre que la boule de pâte s'affaisse un peu avant de recommencer ou de faire la boule.
+12. Avant que ça ne monte trop, faire la boule :
     - Fariner le dessus du pâton
     - Mettre le paton sur le dos sur la farine
     - Plier le nord sur le sud,
     - puis plier les côtés sur le centre, l'un sur l'autre
     - puis tirer sur le sud pour repasser par dessus tout ça et finir en roulant comme une sorte de nem.
-12. Déposer dans le panier fariné avec la clé vers le haut (le dos du paton que l'on a posé sur la farine avant de faire la boule va se retrouver a peu près vers le fond du panier).
-13. Couvrir avec un torchon.
-14. Laisser pousser au frigo ou pas, pour 6-12h. Entre 19 et 22°C, pas besoin de mettre au frais ni de chercher la chaleur. De 22°C à 24°C, cela fonctionne aussi à température ambiante, simplement le paton va coller plus facilement au torchon.
+13. Déposer dans le panier fariné avec la clé vers le haut (le dos du paton que l'on a posé sur la farine avant de faire la boule va se retrouver a peu près vers le fond du panier).
+14. Couvrir avec un torchon.
+15. Laisser pousser au frigo ou pas, pour 6-12h. Entre 19 et 22°C, pas besoin de mettre au frais ni de chercher la chaleur. De 22°C à 24°C, cela fonctionne aussi à température ambiante, simplement le paton va coller plus facilement au torchon.
 
 ## Cuisson du pain
 
