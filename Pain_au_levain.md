@@ -2,17 +2,18 @@
 
 ## Proportions et levains
 ### Levain liquide + farine + eau et temps de pousse :
-- 1 volume de levain + 1 de farine + 1 d'eau -> 
-- 1 volume de levain + 2 de farine + 2 d'eau -> à compléter
+- 1 volume de levain + 1 de farine + 1 d'eau -> 5 heures de pousse à 19°C, 3 heures à 24°C
+- 1 volume de levain + 2 de farine + 2 d'eau -> 12 heures de pousse à 19°C, 7 à 8 heures à 24°C
 
 Par exemple :
-Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je rafraîchis avec une cuillère à café de farine et une cuillère à café d'eau, je mélange bien. L'ensemble pèse environ 20 g. Je laisse reposer 8 à 12h (pour une température entre 18 et 22°C), puis je rafraîchis une deuxième fois en faisant environ 20-25g de levain (pas besoin d'être exact) + 50g de farine + 50g d'eau, je mélange bien et je laisse reposer 8 à 12h. Si je ne l'utilise pas au bout des 12h, je le range au frigo.
+Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je rafraîchis avec une cuillère à café de farine et une cuillère à café d'eau, je mélange bien. L'ensemble pèse environ 20 g. Je laisse pousser 8 à 12h (pour une température entre 18 et 22°C), puis je rafraîchis une deuxième fois en faisant environ 20-25g de levain (pas besoin d'être exact) + 50g de farine + 50g d'eau, je mélange bien et je laisse pousser 8 à 12h. Si je ne l'utilise pas au bout des 12h, je le range au frigo.
 
 Exemple 2.
-Je démarre avec 50g de levain, je vise de monter à 120g, donc j'ajoute 35 g de farine et 35 g d'eau, je mélange et je laisse reposer 2 à 4 heures à température ambiante.
+Je démarre avec 50g de levain, je vise de monter à 120g, donc j'ajoute 35 g de farine et 35 g d'eau, je mélange et je laisse pousser 2 à 4 heures à température ambiante.
 
 ### Proportions levain dur
 - le plus simple : prélever un morceau sur la pâte à avant de faire la boule, laisser lever sans rafraîchir puis stocker au frais.
+- pour un volume de levain liquide ajouter 2 volumes de farine et 1,2 volumes d'eau, bien mélanger.
 
 J'utilise la forme dure surtout pour le stocker et je multiplie comme si c'était du levain liquide avant de l'utiliser. Comme je démarre avec toute petite quantité de levain dur, je ne me préoccupe pas de savoir combien d'eau et de farine il contient exactement, simplement si le levain reste trop dur à mélanger j'ajoute un peu plus d'eau.
 
@@ -31,14 +32,12 @@ Pour relancer un vieux levain, rester avec des petites quantités tant que le le
 
 ## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
 - 100g de levain à la farine T110 ou T180
-- 5g ou au moins l'équivalent d'un petit pois de levain que l'on met de côté pour les prochaines fois
-- 300g d'eau à température ambiante (+13g quand on est à l'aise). La quantité d'eau optimale peut augmenter légèrement quand on augmente le type de la farine.
-- 500g de farine (par exemple 3/4 de farine T65, 1/4 de farine T110, ou tout en T65)
+- mettre de côté 5g de levain ou au moins l'équivalent d'un petit pois pour les prochaines fois
+- 300g d'eau à température ambiante (+13g quand on est à l'aise). La quantité d'eau optimale varie selon la qualité la farine et le procédé de fabrication.
+- 500g de farine (par exemple 350g de farine T65 et 150g de farine T110, ou tout en T65)
 - 9 à 10 g de sel
 
-Remarque : dans une cocotte 6 personnes, on peut augmenter les proportions de 25% : 250g de levain, 287g d'eau, 500g de farine, 15g de sel. Attention, c'est plus difficile à mélanger. On obtient un pain de 800g après cuisson.
-
-Sur l'utilisation de farine plus ou moins complète : plus le type de la farine est élévée, plus la mie sera compacte et plus elle aura le goût de pain complet. Moins le type est élevé, et plus la mie sera souple. J'aime bien faire le levain à la farine complète ou semi complète (T180 ou T110) et utiliser seulement de la farine blanche (T55 ou T65) pour faire la pâte, mais il est possible d'essayer toutes les combinaisons.
+Sur l'utilisation de farine plus ou moins complète : plus le type de la farine est élévée, plus la mie sera compacte et plus elle aura le goût de pain complet. Moins le type est élevé, et plus la mie sera souple.
 
 ## Préparation de la pâte à pain
 1. Diluer le levain avec l'eau.
