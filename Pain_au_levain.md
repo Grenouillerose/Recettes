@@ -5,8 +5,10 @@
 - 1 volume de levain + 1 de farine + 1 d'eau -> 5 heures de pousse à 19°C, 3 heures à 24°C
 - 1 volume de levain + 2 de farine + 2 d'eau -> 12 heures de pousse à 19°C, 7 à 8 heures à 24°C
 
+Si j'ai besoin de 100g de levain pour ma recette, je vise 110 ou 120g pour qu'il m'en reste un peu. 
+
 Par exemple :
-Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je rafraîchis avec une cuillère à café de farine et une cuillère à café d'eau, je mélange bien. L'ensemble pèse environ 20 g. Je laisse pousser 8 à 12h (pour une température entre 18 et 22°C), puis je rafraîchis une deuxième fois en faisant environ 20-25g de levain (pas besoin d'être exact) + 50g de farine + 50g d'eau, je mélange bien et je laisse pousser 8 à 12h. Si je ne l'utilise pas au bout des 12h, je le range au frigo.
+Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je rafraîchis avec une cuillère à café de farine et une cuillère à café d'eau, je mélange bien. L'ensemble pèse environ 20 g. Je laisse pousser 8 à 12h (pour une température entre 18 et 22°C), puis je rafraîchis une deuxième fois en faisant environ 20-25g de levain (pas besoin d'être exact) + 50g de farine + 50g d'eau, je mélange bien et je laisse pousser 8 à 12h. Si je ne l'utilise pas au bout des 12h, je le range au frigo. 
 
 Exemple 2.
 Je démarre avec 50g de levain, je vise de monter à 120g, donc j'ajoute 35 g de farine et 35 g d'eau, je mélange et je laisse pousser 2 à 4 heures à température ambiante.
@@ -30,9 +32,8 @@ Pour relancer un vieux levain, rester avec des petites quantités tant que le le
 
    Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite. Faire reposer l'eau à l'air libre 2h avant de l'utiliser permet aussi au chlore de s'évaporer.
 
-## Ingrédients pour un gros pain de la taille d'une cocotte 4 personnes
+## Ingrédients pour un gros pain
 - 100g de levain à la farine T110 ou T180
-- mettre de côté 5g de levain ou au moins l'équivalent d'un petit pois pour les prochaines fois
 - 300g d'eau à température ambiante (+13g quand on est à l'aise). La quantité d'eau optimale varie selon la qualité la farine et le procédé de fabrication.
 - 500g de farine (par exemple 350g de farine T65 et 150g de farine T110, ou tout en T65)
 - 9 à 10 g de sel
