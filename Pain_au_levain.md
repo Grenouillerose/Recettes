@@ -1,7 +1,7 @@
 # Pain au levain
 
 ## Proportions et levains
-### Levain liquide + farine + eau et temps de pousse :
+### Levain liquide et temps de pousse :
 - 1 volume de levain + 1 de farine + 1 d'eau -> 5 heures de pousse à 19°C, 3 heures à 24°C
 - 1 volume de levain + 2 de farine + 2 d'eau -> 12 heures de pousse à 19°C, 7 à 8 heures à 24°C
 
@@ -68,5 +68,8 @@ Sur l'utilisation de farine plus ou moins complète : plus le type de la farine 
 
 1. Préchauffer le four et la cocotte à 230°C chaleur tournante.
 2. Mettre la pâte à pain dans la cocotte : renverser le panier, la clef de la boule devient ainsi le dessous de la boule pour la cuisson.
-3. Enfourner pour 55 minutes
-4. Laisser refroidir 30 minutes avant de couper le pain
+3. Refermer le couvercle de la cocotte. Sans couvercle il faut placer un bon d'eau (résistant à la chaleur) dans le four au début du préchauffage.
+4. Enfourner pour 55 minutes
+5. Au bout de 30 minutes, baisser le four à 210°C (et continuer la cuisson 25 minutes)
+6. Sortir du four et de la cocotte
+7. Laisser refroidir 30 minutes avant de couper le pain
