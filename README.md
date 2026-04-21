@@ -1,6 +1,6 @@
 # Recettes
 
-[Pain au levain](Pain_au_levain.md) (pas à jour)
+[Pain au levain](Pain_au_levain.md)
 
 [Pâte brisée](Pate_brisee.md)
 
