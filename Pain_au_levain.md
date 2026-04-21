@@ -40,6 +40,18 @@ Pour relancer un vieux levain, rester avec des petites quantités tant que le le
 
 Sur l'utilisation de farine plus ou moins complète : plus le type de la farine est élévée, plus la mie sera compacte et plus elle aura le goût de pain complet. Moins le type est élevé, et plus la mie sera souple.
 
+En % boulanger, les quantités proposées ici correspondent à :
+levain liquide : 20% du poids de farine
+eau : 60% du poids de farine
+sel : 2% du poids de farine
+
+Mais si on veut connaître l'hydratation de la pâte, il faut compter l'eau et la farine contenus dans le levain, c'est ce qui permet de faire les équivalences de proportions quand on change l'hydratation du levain. Comme on a un levain liquide qui contient autant d'eau que de farine, on obtient :
+farine : 550g
+eau : 350g soit 350/550 = 64% d'hydratation 
+sel : 10g, soit un peu moins de 2%
+
+Si on veut simplement réduire la quantité initiale de levain, on peut prendre les mêmes quantités que d'habitude pour le reste, et ajouter un peu d'eau (10-15g) pendant le pétrissage, en ajustant selon la texture.
+
 ## Préparation de la pâte à pain
 1. Mélanger le sel avec la farine dans un grand saladier.
 2. Ajouter le levain puis l'eau.
