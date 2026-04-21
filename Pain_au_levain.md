@@ -1,7 +1,9 @@
 # Pain au levain
 
-## Proportions et levains
+## Le levain
+
 ### Levain liquide et temps de pousse :
+
 - 1 volume de levain + 1 de farine + 1 d'eau -> 5 heures de pousse à 19°C, 3 heures à 24°C
 - 1 volume de levain + 2 de farine + 2 d'eau -> 12 heures de pousse à 19°C, 7 à 8 heures à 24°C
 
@@ -13,13 +15,15 @@ Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je raf
 Exemple 2.
 Je démarre avec 50g de levain, je vise de monter à 120g, donc j'ajoute 35 g de farine et 35 g d'eau, je mélange et je laisse pousser 2 à 4 heures à température ambiante.
 
-### Proportions levain dur
+### Levain dur
+
 - le plus simple : prélever un morceau sur la pâte à avant de faire la boule, laisser lever sans rafraîchir puis stocker au frais.
 - pour un volume de levain liquide ajouter 2 volumes de farine et 1,2 volumes d'eau, bien mélanger.
 
 J'utilise la forme dure surtout pour le stocker et je multiplie comme si c'était du levain liquide avant de l'utiliser. Comme je démarre avec toute petite quantité de levain dur, je ne me préoccupe pas de savoir combien d'eau et de farine il contient exactement, simplement si le levain reste trop dur à mélanger j'ajoute un peu plus d'eau.
 
-## Gestion du levain
+### Gestion du levain
+
 Le mieux serait de toujours utiliser le levain au maximum de sa pousse après un rafraîchi et de le garder toujours actif et à température ambiante.
 
 En pratique, on peut gérer son levain et son temps de manière plus souple. En le plaçant au frigo lorsqu'il est au maximum de sa pousse, on pourra utiliser le levain directement jusqu'à 8 jours après sans le rafraîchir (voire plus avec un levain dur).
@@ -33,6 +37,7 @@ Pour relancer un vieux levain, rester avec des petites quantités tant que le le
    Si on est pressé, surtout en hiver quand l'eau du robinet est froide, on peut tiédir un peu l'eau ou utiliser de l'eau d'une carafe à température ambiante pour que le levain lève plus vite. Faire reposer l'eau à l'air libre 2h avant de l'utiliser permet aussi au chlore de s'évaporer.
 
 ## Ingrédients pour un gros pain
+
 - 100g de levain à la farine T110 ou T180
 - 300g d'eau à température ambiante (+13g quand on est à l'aise). La quantité d'eau optimale varie selon la qualité la farine et le procédé de fabrication.
 - 500g de farine (par exemple 350g de farine T65 et 150g de farine T110, ou tout en T65)
@@ -53,6 +58,7 @@ sel : 10g, soit un peu moins de 2%
 Si on veut simplement réduire la quantité initiale de levain, on peut prendre les mêmes quantités que d'habitude pour le reste, et ajouter un peu d'eau (10-15g) pendant le pétrissage, en ajustant selon la texture.
 
 ## Préparation de la pâte à pain
+
 1. Mélanger le sel avec la farine dans un grand saladier.
 2. Ajouter le levain puis l'eau.
 3. Tout mélanger franchement à la cuillère.
