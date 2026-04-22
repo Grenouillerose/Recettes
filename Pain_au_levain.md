@@ -1,5 +1,10 @@
 # Pain au levain
 
+## A rédiger
+- mes ustensiles
+- grigne
+- sortie du four
+
 ## Le levain
 
 ### Levain liquide et temps de pousse :
