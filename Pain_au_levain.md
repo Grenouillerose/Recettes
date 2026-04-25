@@ -2,8 +2,6 @@
 
 ## A rédiger
 - mes ustensiles
-- grigne
-- sortie du four
 
 ## Le levain
 
@@ -93,7 +91,7 @@ Si on veut simplement réduire la quantité initiale de levain, on peut prendre 
 2. Mettre la pâte à pain dans la cocotte : renverser le panier, la clef de la boule devient ainsi le dessous de la boule pour la cuisson.
 3. Grigner : avec une lame de rasoir mouillée, faire quelques entailles sur le pain (en croix, parallèles ou en croisillons). Si le pain est un peu surfermenté, la pâte est très fragile : entailler avec un ou deux coups de ciseaux.
 4. Avec une manique, refermer vite le couvercle de la cocotte ou vérifier qu'il reste de l'eau dans le four.
-5. Enfourner pour 55 minutes
-6. Au bout de 30 minutes, baisser le four à 210°C (et continuer la cuisson 25 minutes)
-7. Sortir du four et de la cocotte
-8. Laisser refroidir 30 minutes avant de couper le pain
+5. Enfourner à 230°C pour 55 minutes.
+6. Au bout de 30 minutes, baisser le four à 200°C (et continuer la cuisson 25 minutes).
+7. Sortir du four et de la cocotte. 
+8. Laisser refroidir 30 minutes sur une grille avant de couper le pain.
