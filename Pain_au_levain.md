@@ -66,7 +66,7 @@ Si on veut simplement réduire la quantité initiale de levain, on peut prendre 
 
 1. Mélanger le sel avec la farine dans un grand saladier.
 2. Ajouter le levain puis l'eau.
-3. Tout mélanger franchement à la cuillère.
+3. Tout mélanger franchement à la cuillère. Noter l'heure du mélange.
 4. Quand toute la farine est amalgamée et la pâte à peu près homogène, commencer à pétrir à la main, en aplatissant sans déchirer et en rabattant les cotés de la pâte sur son milieu plusieurs fois. On peut mouiller les mains pour éviter que la pâte ne colle aux doigts, ou bien fariner légèrement. Le mieux c'est encore de ne pas mettre les mains tant que ça colle trop. Si le saladier n'est pas assez grand, on peut travailler sur le plan de travail dès cette étape.
 5. Au bout de 5 minutes de pétrissage maximum, ou quand la pâte s'applatit moins facilement et devient aussi moins collante (ça se remarque surtout si on la travaille sans farine et sans mouiller les mains), déposer la pâte sur le plan de travail et laisser reposer quelques minutes.
 6. Fariner le tissu du baneton (à défaut : un panier ou une passoire couverte d'un torchon).
@@ -89,10 +89,11 @@ Si on veut simplement réduire la quantité initiale de levain, on peut prendre 
 
 ## Cuisson du pain
 
-1. Préchauffer le four et la cocotte à 230°C chaleur tournante.
+1. Préchauffer le four et la cocotte à 230°C chaleur tournante 30 minutes. On peut monter jusqu'à 250 °C si on a confiance dans son matériel (poignée de la cocotte et maniques). Si on n'a pas de couvercle, placer aussi un pot d'eau (résistant à la chaleur) dans le four au début du préchauffage.
 2. Mettre la pâte à pain dans la cocotte : renverser le panier, la clef de la boule devient ainsi le dessous de la boule pour la cuisson.
-3. Refermer le couvercle de la cocotte. Sans couvercle il faut placer un bon d'eau (résistant à la chaleur) dans le four au début du préchauffage.
-4. Enfourner pour 55 minutes
-5. Au bout de 30 minutes, baisser le four à 210°C (et continuer la cuisson 25 minutes)
-6. Sortir du four et de la cocotte
-7. Laisser refroidir 30 minutes avant de couper le pain
+3. Grigner : avec une lame de rasoir mouillée, faire quelques entailles sur le pain (en croix, parallèles ou en croisillons). Si le pain est un peu surfermenté, la pâte est très fragile : entailler avec un ou deux coups de ciseaux.
+4. Avec une manique, refermer vite le couvercle de la cocotte ou vérifier qu'il reste de l'eau dans le four.
+5. Enfourner pour 55 minutes
+6. Au bout de 30 minutes, baisser le four à 210°C (et continuer la cuisson 25 minutes)
+7. Sortir du four et de la cocotte
+8. Laisser refroidir 30 minutes avant de couper le pain
