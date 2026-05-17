@@ -1,19 +1,16 @@
 # Pain au levain
 
-## A rédiger
-- mes ustensiles
-
 ## Le levain
 
 ### Levain liquide et temps de pousse :
-
+(dites durées et températures à vérifier)
 - 1 volume de levain + 1 de farine + 1 d'eau -> 5 heures de pousse à 19°C, 3 heures à 24°C
 - 1 volume de levain + 2 de farine + 2 d'eau -> 12 heures de pousse à 19°C, 7 à 8 heures à 24°C
 
 Si j'ai besoin de 100g de levain pour ma recette, je vise 110 ou 120g pour qu'il m'en reste un peu. 
 
 Par exemple :
-Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je rafraîchis avec une cuillère à café de farine et une cuillère à café d'eau, je mélange bien. L'ensemble pèse environ 20 g. Je laisse pousser 8 à 12h (pour une température entre 18 et 22°C), puis je rafraîchis une deuxième fois en faisant environ 20-25g de levain (pas besoin d'être exact) + 50g de farine + 50g d'eau, je mélange bien et je laisse pousser 8 à 12h. Si je ne l'utilise pas au bout des 12h, je le range au frigo. 
+Exemple 1. Je garde une demi cuillère à café de levain au fond du pot, je rafraîchis avec une cuillère à café de farine et une cuillère à café d'eau, je mélange bien. L'ensemble pèse environ 20 g. Je laisse pousser 8 à 12h (pour une température autour de 19°C), puis je rafraîchis une deuxième fois en faisant environ 20-25g de levain (pas besoin d'être exact) + 50g de farine + 50g d'eau, je mélange bien et je laisse pousser 8 à 12h. Si je ne l'utilise pas au bout des 12h, je le range au frigo. 
 
 Exemple 2.
 Je démarre avec 50g de levain, je vise de monter à 120g, donc j'ajoute 35 g de farine et 35 g d'eau, je mélange et je laisse pousser 2 à 4 heures à température ambiante.
