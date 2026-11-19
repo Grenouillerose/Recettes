@@ -66,4 +66,6 @@
 
 [Tarte à la rhubarbe](Tarte_rhubarbe.md)
 
+[Tuiles aux amandes](Tuiles_amandes.md)
+
 [Confiture de Noël](Confiture_Noel.md)
